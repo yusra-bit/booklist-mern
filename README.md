@@ -1,11 +1,9 @@
 # booklist-mern
-### Techs Used
+### Techs Used 👾
    MERN(MongoDB, Express.js, React, Node.js) stack.
    
-Booklist Web app 
+
+📌 *Features*
  - You can Add a book
  - Booklist
  - Delete/ Update a book
-
-   Techs Used
-   MERN(MongoDB, Express.js, React, Node.js) stack.
